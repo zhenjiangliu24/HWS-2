@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  HWS-2-demo
 //
-//  Created by ZhongZhongzhong on 2016-08-20.
+//  Created by Zhenjiang Liu on 2016-08-20.
 //  Copyright © 2016 ZhongZhongzhong. All rights reserved.
 //
 
